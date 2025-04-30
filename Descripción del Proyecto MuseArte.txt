@@ -1,0 +1,13 @@
+Descripción del Proyecto: MuseArte
+
+MuseArte es una aplicación web desarrollada con Java (JSP) que presenta una galería de obras artísticas a través de una interfaz sencilla y visualmente organizada.
+
+El proyecto está enfocado en la visualización de contenido artístico, y está construido únicamente con páginas JSP estáticas y dinámicas, sin el uso de controladores ni bases de datos. Es ideal para quienes están dando sus primeros pasos en el desarrollo web con tecnologías Java y desean explorar cómo presentar información estructurada desde el lado del servidor.
+
+En el código encontrarás:
+
+Páginas JSP con contenido sobre diferentes obras y autores.
+
+Enlaces internos que facilitan la navegación entre secciones.
+
+Estructura clara, ideal para su consulta y adaptación educativa.
